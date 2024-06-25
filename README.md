@@ -12,7 +12,7 @@
 - 🌱 I'm currently learning **Algorithms and Data Analysis.**
 - 👯 I'm looking to collaborate on **Machine Learning, Web Development or Data Science**
 - 😄 Pronouns : **He/Him/His**
-- 🥶  **Coder, Athlete, Professional Gamer**
+- 🥶  **Coder, Athlete, Professional Economist**
 
 <br/>
 <br/>
